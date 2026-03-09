@@ -51,6 +51,8 @@ coverage.xml
 .pytest_cache/
 cover/
 
+artifacts/data_ingestion
+
 # Translations
 *.mo
 *.pot
